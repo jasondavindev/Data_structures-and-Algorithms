@@ -30,7 +30,7 @@ void swap(int *i, int *j)
 void reverse(int *array, int begin, int end)
 {
   /**
-   * greater than or equal because depends of number of elements
+   * greater or equal, because it depends on the number of elements
    * if even, must be greater than
    * if odd, must be equals
    */
